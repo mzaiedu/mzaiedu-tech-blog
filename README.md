@@ -23,28 +23,33 @@ git checkout -b {브랜치명}
 
 - 👉 [StackEdit](https://stackedit.io/app#) 을 이용하면 쉽게 포스트를 작성하실 수 있습니다.
 
-### 3. 변경 내용을 반영합니다.
+### 3. 변경 내용을 저장합니다.
 ```bash
 git add .
 ```
 
-### 4. 변경 내용을 업로드합니다.
+### 4. 변경 내용을 반영합니다.
+```bash
+git commit
+```
+
+### 5. 변경 내용을 업로드합니다.
 ```bash
 git push origin {브랜치명}
 ```
 
-### 5. 깃허브에 접속합니다.
+### 6. 깃허브에 접속합니다.
 - [📂mzaiedu-tech-blog](https://github.com/mzaiedu/mzaiedu-tech-blog)
 - mzaiedu@gmail.com 으로 로그인합니다(계정 정보: *잔디참고*).
 
-### 6. PR을 생성합니다.
+### 7. PR을 생성합니다.
 (1) *Pull requests* 탭으로 이동합니다.  
 (2) base:master <- compare:{업로드한 브랜치}로 PR을 생성합니다.  
 (3) 간략한 메시지를 입력하고, Gatsby의 검증 절차가 끝날때까지 기다립니다.  
 (4) 아래 사진과 같이 모든 검증이 끝나면 *Merge pull request* 를 눌러 머지합니다.  
 
 ![MR날리기](https://github.com/mzaiedu/mzaiedu-tech-blog/assets/139085455/fb9f4738-99fb-44a1-a8cc-2bd61bc4015a)
-### 7. 새로 올라온 포스트를 감상합니다.
+### 8. 새로 올라온 포스트를 감상합니다.
 
 <br/>
 
