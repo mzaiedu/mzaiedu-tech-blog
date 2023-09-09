@@ -4,9 +4,6 @@ date: "2023-09-01T08:30:37.121Z"
 ---
 
 
-# 에듀테크팀은 어떻게 [로키토키]에 React-query를 도입하였을까?
-
-
 여느 다른 웹 서비스와 비슷하게 [ Rockie Talkie ] 에도 많은 서버 데이터를 이용하고 있습니다. 저희 에듀테크 프런트엔드팀은 **서버 데이터를 효율적이고 유연하게 관리**하기 위해 👉[React-query](https://tanstack.com/query/v4/docs/react/overview) 를 도입하였습니다. 에듀테크 프런트엔드팀이 [ Rockie Talkie ] 에 어떻게 React-query를 도입하였는지 풀어보도록 하겠습니다.
 
   
