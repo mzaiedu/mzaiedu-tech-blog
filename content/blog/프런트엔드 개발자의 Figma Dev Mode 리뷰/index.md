@@ -3,6 +3,9 @@ title: 프런트엔드 개발자의 Figma Dev Mode 리뷰
 date: "2023-08-29T20:02:11.337Z"
 ---
 
+**Figma 개발자 모드 사용기**
+by Dongyeon
+
 ![](https://velog.velcdn.com/images/ksr20612/post/18099f7b-48d2-47dd-8e6a-4595b0b7ee4e/image.png)
 
 
