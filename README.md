@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://mzaiedutechblog.gatsbyjs.io/">
-    <img alt="Gatsby" src="https://www.rockie-talkie.ai/rktk-logo.jpg" />
+    <img alt="RalkieTalkie Logo" src="https://www.rockie-talkie.ai/rktk-logo.png" />
   </a>
   <br/>
 </p>
