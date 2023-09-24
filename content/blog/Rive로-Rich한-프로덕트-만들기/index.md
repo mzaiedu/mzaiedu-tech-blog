@@ -2,6 +2,7 @@
 title: Rive로 Rich한 프로덕트 만들기
 date: "2023-08-01T14:41:13.297Z"
 ---
+새로운 애니메이션 도구 알아보기 by Mansik Sohn
 
 듀오링고는 풍부한 애니메이션을 적극적으로 활용하고 있는데요, 22년 말 [Rive를 도입해 애니메이션을 리디자인했다](https://blog.duolingo.com/world-character-visemes/)는 글을 블로그에 올리기도 했습니다.
 
