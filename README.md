@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://mzaiedutechblog.gatsbyjs.io/">
+  <a href="https://mzedutech.netlify.app/">
     <img alt="RalkieTalkie Logo" src="https://www.rockie-talkie.ai/rktk-logo.png" />
   </a>
   <br/>
