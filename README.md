@@ -53,9 +53,6 @@ git push origin {브랜치명}
 
 <br/>
 
-## ✉ 문의사항
-ksr20612@mediazen.co.kr (유동연)
-
 ---
 <p align="center">
   <a href="https://www.gatsbyjs.com">
